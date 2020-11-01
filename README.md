@@ -19,8 +19,8 @@ The run-time for the 2018 refactored code is 0.079 seconds.
 By comparison, the original code took 0.53 seconds to run.
 In both the original and refactored 2018 codes, the ENPH and RUN stocks had the greatest positive returns of 84% and 81% respectively. 
 
-![Graph](/Resources/VBA_Challenge_2017.png)
-![Graph](/Resources/VBA_Challenge_2018.png)
+![Graph](/Resources/VBA_Challenge_2017.PNG)
+![Graph](/Resources/VBA_Challenge_2018.PNG)
 
 ### Summary
 
